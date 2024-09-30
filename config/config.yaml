@@ -1,0 +1,9 @@
+classifier: up_regulated
+base_dir: ./dst
+dataset_file_name: meta_datasets.csv
+get_tree_image: False
+model: DT
+result_dir_path: ./src
+result_file_name: result.yaml
+validation_file_name: 10th_amc.csv
+test_file_name: null
