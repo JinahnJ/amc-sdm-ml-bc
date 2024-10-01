@@ -72,4 +72,4 @@ This citation provides details about the predictive model and its biological rel
 
 ### Notes
 
-- AMC datasets must be downloaded separately.
+- The dataset is available upon request by contacting the corresponding author of the following paper: https://doi.org/10.1016/j.xcrm.2023.101224
